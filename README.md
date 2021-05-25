@@ -50,3 +50,21 @@ GET: /rooms/id //listagem de salas por Id
 
 
 PATCH: /rooms/id //atualizar nome e locacao de uma sala por Id
+
+
+
+
+Formato Json no postman:
+
+
+{
+    "nome" : "nome",
+    "sobrenome" : "sobrenome"
+}
+
+
+
+{
+    "nome" : "nome da sala",
+    "lotacao" : numedo re lotação
+}
