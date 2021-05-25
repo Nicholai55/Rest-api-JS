@@ -31,7 +31,7 @@ Opçãoes no postman:
 GET: /users //listagem de todos os usuarios
 
 
-GET: /users/nome //listagem por Id dos usuarios
+GET: /users/nome //listagem por nome dos usuarios
 
 
 POST: /create_user // criação de usuarios
