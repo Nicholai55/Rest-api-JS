@@ -1,16 +1,20 @@
 # Rest-api-JS
 Rest api JS
+
+
 Nome: nicholai santos gomes
+
+
 
 
 
 Oque fazer: 
 
 
-Após fazer o download do projeto escreva "npm install" no terminal.npm instructions
+Após fazer o download do projeto escreva no terminal: "cd N2_Edinilson" e então escreva: "npm install" no terminal.
 
 
-Se não sabe usar o terminal: https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
+npm instructions Se não sabe usar o terminal: https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
 
 
 
