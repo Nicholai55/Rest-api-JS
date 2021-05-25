@@ -11,7 +11,7 @@ Nome: nicholai santos gomes
 Oque fazer: 
 
 
-Após fazer o download do projeto escreva no terminal: "cd N2_Edinilson" e então escreva: "npm install" no terminal.
+Após fazer o download do projeto escreva no terminal: "cd N2_Edinilson" e então instale as dependencias localizadas na pasta package.json no terminal.
 
 
 npm instructions Se não sabe usar o terminal: https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
