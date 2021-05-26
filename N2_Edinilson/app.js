@@ -48,7 +48,7 @@ app.get("/users/:userName", async (req, res) => {
 //delete user
 app.delete("/users/:userId", async (req, res) => {
   try {
-    const removeUser = await User.remove({ _id: req.params.userId });
+    const removeUser = await User.deleteOne({ _id: req.params.userId });
     res.json(removeUser);
   } catch (err) {
     res.json({ message: err });
