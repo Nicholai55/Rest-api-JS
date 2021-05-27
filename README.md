@@ -58,13 +58,17 @@ Formato Json no postman:
 
 
 {
+
     "nome" : "nome",
     "sobrenome" : "sobrenome"
+    
 }
 
 
 
 {
+
     "nome" : "nome da sala",
     "lotacao" : numedo re lotação
+    
 }
